@@ -37,7 +37,7 @@ Some features of the Weather monitoring system:
 1.  Run git clone in terminal
 
     ```bash
-     git clone REPO_LINK
+     git clone https://github.com/jatinxkirito/weather_monitoring_system.git
     ```
 
 2.  Create config.env file with following content
