@@ -61,5 +61,5 @@ Some features of the Weather monitoring system:
 5.  To run tests, run following command in terminal
 
     ```bash
-     mocha --file test/testSetup.js test/**/*.test.js
+    npx mocha --file test/testSetup.js test/**/*.test.js
     ```
